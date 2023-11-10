@@ -3,7 +3,25 @@
 - 🍪未来可能会考虑游戏开发
 - 🎵联系方式:765830637@qq.com
 - 🏰个人主页:[传送门](https://my-website-one-topaz.vercel.app/)
-<img align="right" src="https://github-readme-stats-kallkago.vercel.app/api/top-langs/?username=KallkaGo&hide=css,html,scss,less" />
-<img align="left" src="https://github-readme-stats-kallkago.vercel.app/api?username=KallkaGo&show_icons=true&count_private=true" />
+
+<div align='center'>
+[![genshin-image]][genshin-link]
+
+[![stats]]
+
+[![language]]
+
+</div>
+
+[home]: https://github.com/RealHeart
+
+[header]: https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=120&text=真心(RealHeart)&fontSize=45
+[moe-counter]: https://count.getloli.com/get/@RealHeart?theme=rule34
+
+[stats]: https://github-readme-stats-kallkago.vercel.app/api?username=KallkaGo&show_icons=true&count_private=true
+[language]: https://github-readme-stats-kallkago.vercel.app/api/top-langs/?username=KallkaGo&hide=css,html,scss,less
+
+[genshin-image]: https://genshin-card.himiku.com/rand/203897073.png
+[genshin-link]: https://enka.network/u/124435851
 
 
