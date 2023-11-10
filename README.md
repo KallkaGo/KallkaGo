@@ -8,15 +8,10 @@
 [![genshin-image]][genshin-link]
 
 [![stats]]
-
 [![language]]
 
 </div>
 
-[home]: https://github.com/RealHeart
-
-[header]: https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=120&text=真心(RealHeart)&fontSize=45
-[moe-counter]: https://count.getloli.com/get/@RealHeart?theme=rule34
 
 [stats]: https://github-readme-stats-kallkago.vercel.app/api?username=KallkaGo&show_icons=true&count_private=true
 [language]: https://github-readme-stats-kallkago.vercel.app/api/top-langs/?username=KallkaGo&hide=css,html,scss,less
