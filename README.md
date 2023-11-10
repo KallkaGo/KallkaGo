@@ -7,8 +7,8 @@
 <div align='center'>
 [![genshin-image]][genshin-link]
 
-[![stats]]
-[![language]]
+[stats]
+[language]
 
 </div>
 
