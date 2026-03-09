@@ -18,7 +18,7 @@
 
   
 [stats]: https://github-readme-stats-kallkago.vercel.app/api?username=KallkaGo&show_icons=true&count_private=true&theme=transparent&card_width=470&hide_border=true
-[language]: https://github-readme-stats-kallkago.vercel.app/api/top-langs/?username=KallkaGo&hide=css,html,scss,less&theme=transparent&card_width=470&hide_border=true
+[language]: https://github-readme-stats-kallkago.vercel.app/api/top-langs/?username=KallkaGo&hide=css,c%2B%2B,html,scss,less&theme=transparent&card_width=470&hide_border=true
 
 [genshin-image]: https://genshin-card-kallka.vercel.app/rand/203897073.png
 [genshin-link]: https://enka.network/u/124435851
