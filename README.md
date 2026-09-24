@@ -5,7 +5,7 @@
 
 - 🍪图形渲染褪色者
 
-- 🎵联系方式:bettermarry1016@gmail.com
+- 🎵联系方式:kallka.ciallo@gmail.com
 
 - 🏰个人主页:[传送门](https://my-website-kallka.vercel.app/)
 ---
